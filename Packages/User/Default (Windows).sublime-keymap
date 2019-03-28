@@ -1,0 +1,5 @@
+[
+	{ "keys": ["ctrl+shift+k"], "command": "select_lines", "args": {"forward": false} },
+    { "keys": ["ctrl+shift+j"], "command": "select_lines", "args": {"forward": true} },
+    { "keys": ["alt+m"], "command": "markdown_preview", "args": {"target": "browser"} },
+]

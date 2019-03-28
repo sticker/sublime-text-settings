@@ -1,0 +1,44 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"BeautifyRuby",
+		"Better CoffeeScript",
+		"BracketHighlighter",
+		"Codec",
+		"Confluence",
+		"ConvertToUTF8",
+		"EJS",
+		"Emmet",
+		"Gist",
+		"HTML5",
+		"IMESupport",
+		"Japanize",
+		"JavaScript & NodeJS Snippets",
+		"JsonTree",
+		"Markdown Extended",
+		"MarkdownEditing",
+		"MarkdownPreview",
+		"Material Theme",
+		"Monokai Extended",
+		"Nodejs",
+		"Package Control",
+		"Pretty JSON",
+		"ProjectManager",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"SublimeLinter-jshint",
+		"SublimeLinter-json",
+		"SublimePrettyJson",
+		"Sublimerge Pro"
+	],
+	"repositories":
+	[
+		"https://github.com/dzhibas/SublimePrettyJson.git"
+	]
+}
